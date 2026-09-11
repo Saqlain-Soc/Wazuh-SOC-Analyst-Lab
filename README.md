@@ -58,7 +58,17 @@ The investigation process involved reviewing:
 
 ## 📊 Evidence
 
-Screenshots and investigation documentation are included in this repository to demonstrate the practical work completed during the lab.
+### Active Agents
+![Active Agents](Active%20Agents.png)
+
+### Wazuh Dashboard
+![Wazuh Dashboard](Dashboard.png)
+
+### Detection Alert
+![Detection Alert](Detection.png)
+
+### Active Response — IP Block
+![Active Response](Active%20Response%20Ip%20Block.png)
 
 ## 📚 Learning Outcomes
 
