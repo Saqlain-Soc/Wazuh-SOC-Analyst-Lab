@@ -70,6 +70,10 @@ The investigation process involved reviewing:
 ### Active Response — IP Block
 ![Active Response](Active%20Response%20Ip%20Block.png)
 
+### 📄 Investigation Report
+
+[View MYDFIR Wazuh SOC Investigation Report](MYDFIR-Wazuh-SOC-Investigation-Report.pdf)
+
 ## 📚 Learning Outcomes
 
 Through this project, I gained practical experience with:
