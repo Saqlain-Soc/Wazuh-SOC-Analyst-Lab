@@ -72,7 +72,7 @@ Installed and enrolled Wazuh agents on both the Windows and Linux endpoints, con
 
 **📸 Evidence — Agent Status**
 
-![Active Agents](Active_Agents.png)
+![Active Agents](Active Agents.png)
 
 > **Result:** 2 agents active | 0 disconnected | 0 pending | 0 never connected
 
@@ -120,7 +120,7 @@ Built a custom dashboard — *MYDFIR-Saqo Basic SOC Activity Overview* — visua
 
 **📸 Evidence — SSH Brute Force Detection & Automated IP Block**
 
-![Active Response](Active_Response_Ip_Block.png)
+![Active Response](Active Response Ip Block.png)
 
 > **Response Time:** The `firewall-drop` Active Response executed approximately **300 milliseconds** after the custom detection rule fired.
 
