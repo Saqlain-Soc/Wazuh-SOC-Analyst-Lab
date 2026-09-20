@@ -212,7 +212,7 @@ wazuh-soc-home-lab/
 This repository forms part of my practical cybersecurity learning portfolio and documents my hands-on SOC laboratory exercises.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saqlain-abbas-a61b59414">
+  <a href="https://linkedin.com/in/saqlain-abbas-498516345">
     <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
   </a>
   &nbsp;
